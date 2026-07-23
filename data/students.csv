@@ -1,0 +1,72 @@
+Student_ID,Full_Name,Father_Name,Age,Gender,Class,Section,Roll_Number,Phone,Email,Address,Date_Of_Birth,Admission_Date
+STD-1001,Muhammad Ali Khan,Ahmed Raza Khan,15,Male,9th,A,12,03011234567,alirazakhan031@gmail.com,House 24 - Block H - North Nazimabad - Karachi,2010-03-15,2025-04-08
+STD-1002,Abdul Rehman,Imran Ahmed,15,Male,9th,A,21,03022345678,abdulimran1298@gmail.com,House 18 - Block 7 - Gulshan-e-Iqbal - Karachi,2010-05-09,2025-04-08
+STD-1003,Ayesha Noor,Muhammad Aslam,14,Female,8th,B,9,03033456789,ayeshamuhammad03@gmail.com,House 45 - DHA Phase 6 - Lahore,2011-02-18,2025-04-10
+STD-1004,Fatima Zahra,Shahid Hussain,14,Female,8th,B,7,03044567890,fatimahussain04@gmail.com,House 62 - Block C - Johar Town - Lahore,2011-01-25,2025-04-10
+STD-1005,Hassan Raza,Muhammad Raza,16,Male,10th,A,1,03055678901,hassanraza305@gmail.com,House 13 - Street 5 - Satellite Town - Rawalpindi,2009-09-12,2025-04-12
+STD-1006,Zain Ali,Tariq Mehmood,16,Male,10th,A,5,03066789012,zaintariq987@gmail.com,House 88 - Block B - Saddar - Rawalpindi,2009-11-20,2025-04-12
+STD-1007,Maryam Khan,Naveed Ahmed,13,Female,7th,C,10,03077890123,maryamnaveed743@gmail.com,House 31 - Street 12 - Hayatabad Phase 3 - Peshawar,2012-07-30,2025-04-15
+STD-1008,Iqra Ahmed,Sajid Ali,13,Female,7th,C,14,03088901234,iqrasajid960@gmail.com,House 54 - Street 9 - University Town - Peshawar,2012-08-11,2025-04-15
+STD-1009,Bilal Ahmed,Akram Khan,12,Male,6th,A,25,03099012345,bilalakram109@gmail.com,House 77 - Block D - Peoples Colony - Faisalabad,2013-04-14,2025-04-18
+STD-1010,Hamza Saleem,Saleem Akhtar,12,Male,6th,A,16,03110123456,hamzasaleem398@gmail.com,House 26 - Block F - Madina Town - Faisalabad,2013-06-01,2025-04-18
+STD-1011,Laiba Noor,Arshad Mehmood,11,Female,5th,B,4,03121234567,laibamehmood1122@gmail.com,House 91 - Street 4 - Cantt Area - Sialkot,2014-03-22,2025-04-20
+STD-1012,Eman Fatima,Shoukat Ali,11,Female,5th,B,2,03132345678,emanshoukat1234@gmail.com,House 37 - Block A - Model Town - Sialkot,2014-12-10,2025-04-20
+STD-1013,Usman Tariq,Tariq Javed,10,Male,4th,D,1,03143456789,usmantariq1387@gmail.com,House 42 - Street 8 - Cantonment - Multan,2015-01-18,2025-04-22
+STD-1014,Ahmed Hassan,Hassan Mehmood,10,Male,4th,D,3,03154567890,ahmedhassan14@gmail.com,House 19 - Block G - Gulgasht Colony - Multan,2015-10-27,2025-04-22
+STD-1015,Sana Ilyas,Muhammad Ilyas,9,Female,3rd,A,19,03165678901,sanailyas165@gmail.com,House 55 - Street 6 - Gulberg Greens - Islamabad,2016-06-09,2025-04-25
+STD-1016,Hira Noor,Khalid Mahmood,9,Female,3rd,A,20,03176789012,hirakhalid716@gmail.com,House 73 - Street 15 - G-11 - Islamabad,2016-11-14,2025-04-25
+STD-1017,Saad Ahmed,Faisal Ahmed,8,Male,2nd,B,17,03187890123,saadahmed517@gmail.com,House 29 - Unit 7 - Latifabad - Hyderabad,2017-02-05,2025-04-28
+STD-1018,Noor Fatima,Rashid Ali,8,Female,2nd,B,20,03198901234,fatimarashid1458@gmail.com,House 64 - Block E - Qasimabad - Hyderabad,2017-08-19,2025-04-28
+STD-1019,Muhammad Huzaifa,Waqar Ahmed,7,Male,1st,C,11,03210123456,muhammadhuzaifa9919@gmail.com,House 11 - Street 3 - Civil Lines - Quetta,2018-04-02,2025-05-01
+STD-1020,Anaya Khan,Javed Iqbal,7,Female,1st,C,6,03221234567,anayajaved8820@gmail.com,House 87 - Samungli Road - Quetta,2018-09-16,2025-05-01
+STD-1021,Muhammad Rasib,Muhammad Saeed,10,Male,5th,D,7,03124321981,rasibsaeed7@gmail.com,House 1/15 - Willayatabad 1  - Karachi,2010-01-01,2026-07-18
+STD-1022,Ali Hamza,Sajid Hussain,15,Male,9th,B,13,03232345678,alihamza1022@gmail.com,House 22 - Block M - Gulistan-e-Johar - Karachi,2010-04-12,2025-05-03
+STD-1023,Syed Ibrahim,Tahir Mehmood,15,Male,9th,B,15,03233456789,ibrahim1023@gmail.com,House 48 - Block 10 - Gulshan-e-Maymar - Karachi,2010-06-28,2025-05-03
+STD-1024,Maham Khalid,Khalid Bashir,14,Female,8th,C,5,03234567890,mahamkhalid1024@gmail.com,House 33 - Wapda Town - Lahore,2011-03-14,2025-05-05
+STD-1025,Rimsha Noor,Asif Mahmood,14,Female,8th,C,8,03235678901,rimshanoor1025@gmail.com,House 61 - Block D - Valencia Town - Lahore,2011-09-11,2025-05-05
+STD-1026,Talha Ahmed,Muhammad Yousaf,16,Male,10th,B,2,03236789012,talha1026@gmail.com,House 17 - Street 4 - Chaklala Scheme - Rawalpindi,2009-02-19,2025-05-07
+STD-1027,Muhammad Umair,Nasir Ali,16,Male,10th,B,4,03237890123,umair1027@gmail.com,House 95 - Block A - Bahria Town - Rawalpindi,2009-08-07,2025-05-07
+STD-1028,Aleena Fatima,Farooq Ahmed,13,Female,7th,A,18,03238901234,aleena1028@gmail.com,House 52 - Street 11 - Hayatabad Phase 5 - Peshawar,2012-05-22,2025-05-10
+STD-1029,Misbah Khan,Arif Khan,13,Female,7th,A,21,03239012345,misbah1029@gmail.com,House 74 - Street 7 - Regi Model Town - Peshawar,2012-12-02,2025-05-10
+STD-1030,Abdullah Raza,Razaq Hussain,12,Male,6th,B,11,03240123456,abdullah1030@gmail.com,House 14 - Block C - Peoples Colony - Faisalabad,2013-01-17,2025-05-12
+STD-1031,Huzaifa Khan,Shafqat Ali,12,Male,6th,B,19,03241234567,huzaifa1031@gmail.com,House 89 - Madina Town Extension - Faisalabad,2013-07-09,2025-05-12
+STD-1032,Maria Ahmed,Ahmed Nawaz,11,Female,5th,C,3,03242345678,maria1032@gmail.com,House 24 - Street 8 - Cantt Area - Sialkot,2014-02-11,2025-05-15
+STD-1033,Kinza Iqbal,Muhammad Iqbal,11,Female,5th,C,6,03243456789,kinza1033@gmail.com,House 57 - Block B - Paris Road - Sialkot,2014-10-16,2025-05-15
+STD-1034,Umer Farooq,Farooq Ahmed,10,Male,4th,A,9,03244567890,umer1034@gmail.com,House 44 - Street 9 - Shah Rukn-e-Alam - Multan,2015-03-05,2025-05-17
+STD-1035,Haris Ali,Muhammad Arshad,10,Male,4th,A,12,03245678901,haris1035@gmail.com,House 63 - Block E - Bosan Road - Multan,2015-11-21,2025-05-17
+STD-1036,Zoya Fatima,Imtiaz Hussain,9,Female,3rd,B,14,03246789012,zoya1036@gmail.com,House 18 - Street 7 - F-11 - Islamabad,2016-04-28,2025-05-20
+STD-1037,Minal Noor,Rashid Mehmood,9,Female,3rd,B,16,03247890123,minal1037@gmail.com,House 70 - G-13 Markaz - Islamabad,2016-09-18,2025-05-20
+STD-1038,Ahmad Rayan,Rauf Ahmed,8,Male,2nd,C,8,03248901234,rayan1038@gmail.com,House 25 - Unit 5 - Latifabad - Hyderabad,2017-01-13,2025-05-22
+STD-1039,Zainab Tariq,Tariq Hussain,8,Female,2nd,C,13,03249012345,zainab1039@gmail.com,House 92 - Block G - Qasimabad - Hyderabad,2017-10-26,2025-05-22
+STD-1040,Muhammad Hamdan,Pervez Akhtar,7,Male,1st,A,4,03250123456,hamdan1040@gmail.com,House 31 - Brewery Road - Quetta,2018-05-07,2025-05-25
+STD-1041,Areeba Khan,Shahid Iqbal,7,Female,1st,A,9,03251234567,areeba1041@gmail.com,House 58 - Airport Road - Quetta,2018-12-11,2025-05-25
+STD-1042,Daniyal Ahmed,Ahmed Rauf,15,Male,9th,C,17,03252345678,daniyal1042@gmail.com,House 43 - Block N - North Karachi,2010-07-04,2025-05-27
+STD-1043,Inaya Noor,Waheed Ahmed,14,Female,8th,A,10,03253456789,inaya1043@gmail.com,House 67 - Askari 11 - Lahore,2011-06-18,2025-05-27
+STD-1044,Shaheer Ali,Aslam Khan,16,Male,10th,C,6,03254567890,shaheer1044@gmail.com,House 76 - DHA Phase 2 - Rawalpindi,2009-04-15,2025-05-29
+STD-1045,Esha Fatima,Shabbir Hussain,13,Female,7th,B,12,03255678901,esha1045@gmail.com,House 36 - University Town - Peshawar,2012-03-09,2025-05-29
+STD-1046,Subhan Raza,Raza Muhammad,12,Male,6th,C,15,03256789012,subhan1046@gmail.com,House 81 - Eden Valley - Faisalabad,2013-08-20,2025-06-01
+STD-1047,Mehak Noor,Akhtar Ali,11,Female,5th,D,8,03257890123,mehak1047@gmail.com,House 49 - Khadim Ali Road - Sialkot,2014-05-13,2025-06-01
+STD-1048,Rayyan Ahmed,Jamil Ahmed,10,Male,4th,B,11,03258901234,rayyan1048@gmail.com,House 28 - Gulgasht Colony - Multan,2015-08-29,2025-06-03
+STD-1049,Hoorain Fatima,Mansoor Ahmed,9,Female,3rd,C,5,03259012345,hoorain1049@gmail.com,House 66 - Sector I-10 - Islamabad,2016-02-17,2025-06-03
+STD-1050,Muhammad Talal,Tanveer Hussain,8,Male,2nd,A,9,03260123456,talal1050@gmail.com,House 54 - Auto Bhan Road - Hyderabad,2017-06-01,2025-06-05
+STD-1051,Eshal Khan,Kamran Ahmed,7,Female,1st,B,3,03261234567,eshal1051@gmail.com,House 23 - Jinnah Town - Quetta,2018-08-30,2025-06-05
+STD-1052,Arham Ali,Nadeem Ahmed,15,Male,9th,D,18,03262345678,arham1052@gmail.com,House 73 - Block K - FB Area - Karachi,2010-01-22,2025-06-07
+STD-1053,Noor Ul Huda,Saeed Ahmed,14,Female,8th,D,14,03263456789,noorulhuda1053@gmail.com,House 35 - Canal View - Lahore,2011-11-03,2025-06-07
+STD-1054,Sameer Khan,Khalil Ahmed,16,Male,10th,D,7,03264567890,sameer1054@gmail.com,House 88 - Adyala Road - Rawalpindi,2009-06-12,2025-06-10
+STD-1055,Muskan Fatima,Muhammad Yaqoob,13,Female,7th,D,19,03265678901,muskan1055@gmail.com,House 45 - Ring Road - Peshawar,2012-07-18,2025-06-10
+STD-1056,Hasnain Raza,Rashid Mehmood,12,Male,6th,D,7,03266789012,hasnain1056@gmail.com,House 21 - Susan Road - Faisalabad,2013-09-27,2025-06-12
+STD-1057,Anum Zahra,Nisar Ahmed,11,Female,5th,A,10,03267890123,anum1057@gmail.com,House 83 - Model Town Extension - Sialkot,2014-04-07,2025-06-12
+STD-1058,Ayan Tariq,Tariq Bashir,10,Male,4th,C,13,03268901234,ayan1058@gmail.com,House 29 - Vehari Road - Multan,2015-12-14,2025-06-14
+STD-1059,Mahnoor Khan,Faisal Khan,9,Female,3rd,D,7,03269012345,mahnoor1059@gmail.com,House 59 - Sector G-10 - Islamabad,2016-07-25,2025-06-14
+STD-1060,Abdur Rehman,Shoukat Ali,8,Male,2nd,D,15,03270123456,abdurrehman1060@gmail.com,House 41 - Citizen Colony - Hyderabad,2017-03-19,2025-06-16
+STD-1061,Hafsa Noor,Asghar Ali,7,Female,1st,D,5,03271234567,hafsa1061@gmail.com,House 72 - Sariab Road - Quetta,2018-01-08,2025-06-16
+STD-1062,Salman Ahmed,Jahangir Khan,15,Male,9th,A,22,03272345678,salman1062@gmail.com,House 39 - Block 5 - Nazimabad - Karachi,2010-08-16,2025-06-18
+STD-1063,Komal Fatima,Shafique Ahmed,14,Female,8th,B,16,03273456789,komal1063@gmail.com,House 51 - Bahria Orchard - Lahore,2011-04-30,2025-06-18
+STD-1064,Shayan Ali,Maqsood Ahmed,16,Male,10th,A,9,03274567890,shayan1064@gmail.com,House 94 - PWD Colony - Rawalpindi,2009-10-24,2025-06-20
+STD-1065,Abeer Khan,Naveed Hussain,13,Female,7th,C,22,03275678901,abeer1065@gmail.com,House 62 - Warsak Road - Peshawar,2012-09-05,2025-06-20
+STD-1066,Faizan Ahmed,Ghulam Mustafa,12,Male,6th,A,20,03276789012,faizan1066@gmail.com,House 15 - D Ground - Faisalabad,2013-02-24,2025-06-22
+STD-1067,Sidra Noor,Manzoor Ahmed,11,Female,5th,B,12,03277890123,sidra1067@gmail.com,House 74 - Kashmir Road - Sialkot,2014-08-31,2025-06-22
+STD-1068,Moiz Hassan,Hassan Raza,10,Male,4th,D,15,03278901234,moiz1068@gmail.com,House 56 - Mumtazabad - Multan,2015-05-26,2025-06-24
+STD-1069,Aiza Fatima,Shahid Mehmood,9,Female,3rd,A,22,03279012345,aiza1069@gmail.com,House 32 - Sector H-12 - Islamabad,2016-03-12,2025-06-24
+STD-1070,Rehan Ali,Azhar Hussain,8,Male,2nd,B,18,03280123456,rehan1070@gmail.com,House 85 - Defence Colony - Hyderabad,2017-11-15,2025-06-26
+STD-1071,Muneeba Noor,Muhammad Farooq,7,Female,1st,C,8,03281234567,muneeba1071@gmail.com,House 27 - Kasi Road - Quetta,2018-06-09,2025-06-26
