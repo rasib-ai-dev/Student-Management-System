@@ -18,7 +18,7 @@
 ---
 
 <p align="center">
-  <a href="https://YOUR-STREAMLIT-APP-LINK.streamlit.app">
+  <a href="https://student-management-system-gcoy53n6mmjb3vwqkd9l7h.streamlit.app/">
     <img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-Try%20Now-success?style=for-the-badge" alt="Live Demo">
   </a>
 </p>
@@ -358,7 +358,7 @@ Before running the project, ensure your system meets the following requirements.
 ## Step 1 — Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/student-management-system.git
+git clone https://github.com/rasib-ai-dev/Student-Management-System.git
 ```
 
 ---
@@ -366,7 +366,7 @@ git clone https://github.com/your-username/student-management-system.git
 ## Step 2 — Move into the Project Folder
 
 ```bash
-cd student-management-system
+cd Student-Management-System
 ```
 
 ---
@@ -491,9 +491,7 @@ The application consists of multiple dedicated pages to make student management 
 
 The application stores all student records locally inside:
 
-```text
-data/students.csv
-```
+📄 data/students.csv
 
 The CSV file automatically stores every student record entered through the application.
 
@@ -709,9 +707,7 @@ The application performs several validation checks before saving or updating rec
 
 Student records are stored locally in:
 
-```text
-data/students.csv
-```
+📄 data/students.csv
 
 Each record includes:
 
@@ -842,7 +838,7 @@ You can connect with me through the following platforms.
 
 * GitHub: https://github.com/rasib-ai-dev
 * LinkedIn: https://www.linkedin.com/in/muhammad-rasib-a6aba0413/
-* Email: [pakcolony135@gmail.com](mailto:your-email@example.com)
+* Email: [pakcolony135@gmail.com](mailto:pakcolony135@gmail.com)
 
 
 ---
