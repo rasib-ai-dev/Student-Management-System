@@ -309,16 +309,16 @@ STUDENT-MANAGEMENT-SYSTEM/
 │   ├── update_student.py
 │   └── view_student.py
 │
-├── reports/
-│
 ├── screenshots/
 │
+├── .gitignore
 ├── app.py
-├── student.py
-├── utils.py
-├── requirements.txt
+├── LICENSE
 ├── README.md
-└── .gitignore
+├── requirements.txt
+├── streamlit
+├── student.py
+└── utils.py
 ```
 
 ---
@@ -330,7 +330,7 @@ STUDENT-MANAGEMENT-SYSTEM/
 | **assets/**          | Stores images, icons, logos, and other project assets.                                   |
 | **data/**            | Contains the CSV database used to store student records.                                 |
 | **pages/**           | Contains all Streamlit application pages.                                                |
-| **reports/**         | Reserved for future report generation (PDF, Excel, etc.).                                |
+| **LICENSE**          | This project is licensed under the MIT License.                                          |
 | **screenshots/**     | Stores screenshots used inside the README.                                               |
 | **app.py**           | Main entry point of the application.                                                     |
 | **student.py**       | Defines the Student class using Object-Oriented Programming.                             |
